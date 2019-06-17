@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package com.paic.isic;
+package com.demo.isic;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.flink.api.common.functions.FlatMapFunction;
